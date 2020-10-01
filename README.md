@@ -11,8 +11,8 @@ Projeto desenvolvido em Flutter/Dart
   <img src="https://user-images.githubusercontent.com/65368831/94776192-a948d600-0397-11eb-90e0-592b04f316e0.jpeg" width="400" />
   
   <h1>Fontes</h1>
-[referência de implementação
-](https://www.youtube.com/watch?v=jyjdXFsQoYw&list=PLdPPE0hUkt0pS8u417Gv68M8K3rvyKsSB&index=2)
 
+
+<a href="https://www.youtube.com/watch?v=ViahqKZzZ7Y">Referência de implementação</a>
 
 
