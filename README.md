@@ -10,6 +10,12 @@ Projeto desenvolvido em Flutter/Dart
 
   <img src="https://user-images.githubusercontent.com/65368831/94776192-a948d600-0397-11eb-90e0-592b04f316e0.jpeg" width="400" />
   
+  <h1>Tecnologias</h1>
+
+* Dart
+
+* Flutter
+  
   <h1>Fontes</h1>
 
 
